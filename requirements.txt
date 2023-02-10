@@ -15,7 +15,7 @@ executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
 greenlet @ file:///C:/ci/greenlet_1628888275363/work
 idna @ file:///C:/b/abs_bdhbebrioa/croot/idna_1666125572046/work
 ipykernel==5.5.3
-ipython==7.22.0
+ipython==8.10.0
 ipython-genutils==0.2.0
 jedi==0.18.0
 jupyter-client==6.1.12
